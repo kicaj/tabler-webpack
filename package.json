@@ -13,6 +13,6 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "@tabler/core": "^1.0.0-beta17"
+    "@tabler/core": "github:tabler/tabler#dev"
   }
 }
